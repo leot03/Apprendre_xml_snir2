@@ -1,2 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<!DOCTYPE lycee SYSTEM 'jo2016.dtd'>
+<?xml-stylesheet href="style.css" type="text/css"?>
+<?xml-stylesheet href="blibliotheque.xsl" type="text/xsl" ?>
 
+<grille>
+    <pays>
+        <>
+    </pays>
+</grille>
