@@ -1,7 +1,7 @@
 ![](https://cdn.discordapp.com/attachments/400019430479888394/1017780680798777385/logotouchard.png)
 
-# Apprendre le C++ | SN-IR 2
-> Répertoire Github regroupant les TD réalisés en classe
+# Apprendre le XML | SN-IR 2
+> Répertoire Github regroupant les TD et TP réalisés en classe
 
 ## Sommaire
 * [00 XML](https://github.com/leot03/Apprendre_xml_snir2/tree/main/00_XML)
